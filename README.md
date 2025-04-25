@@ -69,23 +69,6 @@ Aplikasi ini memungkinkan pengguna untuk mencatat aset dan spesifikasinya sesuai
 
 (Relasi: 1 Asset hanya punya 1 Spesifikasi — OneToOne Relationship)
 
-## 🚀 Cara Menjalankan Project
-
-1. Aktifkan virtual environment:
-   ```bash
-   .\env\Scripts\activate
-   ```
-
-2. Jalankan server Django:
-   ```bash
-   python manage.py runserver
-   ```
-
-3. Buka di browser:
-   ```bash
-   http://127.0.0.1:8000/admin
-   ```
-
 4. Login dan mulai input asset serta spesifikasi.
 
 ---
